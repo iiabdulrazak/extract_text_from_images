@@ -16,6 +16,13 @@ sudo apt install tesseract-ocr #installing tesseract-ocr
 echo "Finished installing tesseract-ocr!"
 sleep 5
 
-sudo apt install libtesseract-dev
+sudo apt install libtesseract-dev #installing liberaries
 echo "Finished installing dev packages for tesseract-ocr"
 sleep 5
+
+sudo apt install tesseract-ocr-ara #installing arabic language
+echo "Finished istalling arabic language package!"
+sleep 5
+
+sudo apt autoremove #removing un-wanted packages
+echo "Finished removing!"
