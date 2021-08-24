@@ -4,7 +4,7 @@ pip install -r requirements.txt #installing requirements
 echo "Finished installing requirements ...!"
 sleep 5
 
-sudo add-apt-repository ppa:alx-p/tesseract-ocr #installing ocr packages
+sudo add-apt-repository ppa:alex-p/tesseract-ocr #installing ocr packages
 echo "Finished installing requirements for tesseract-ocr ...!"
 sleep 5
 
