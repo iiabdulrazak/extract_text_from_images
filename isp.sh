@@ -24,5 +24,9 @@ sudo apt install tesseract-ocr-ara #installing arabic language
 echo "Finished istalling arabic language package!"
 sleep 5
 
+sudo apt install python3-opencv
+echo "Finished installing opencv package"
+sleep 5
+
 sudo apt autoremove #removing un-wanted packages
 echo "Finished removing!"
